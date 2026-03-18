@@ -29,7 +29,7 @@ Deep learning models for vulnerability detection often suffer from **spurious co
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)[YourUsername]/RIVAL.git
+git clone https://github.com/pqcjhdll/RIVAL.git
 cd RIVAL
 
 # Create a virtual environment
